@@ -1,0 +1,2 @@
+# aterix
+Manual de uso.
